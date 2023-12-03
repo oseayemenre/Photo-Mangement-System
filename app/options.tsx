@@ -28,8 +28,8 @@ export default function Options() {
 
         <Text className='mt-[53.59px] text-white mb-[50.94px]'>Pictures</Text>
 
-        <View className='bg-[#11152F] py-[9.55px] px-[8.31px] mr-[31.01px] rounded-[17.72px] leading-[21.04px]'>
-          <Text className='text-[12.18px] leading-[21.04px] text-white w-[97%]'>
+        <View className='bg-[#11152F] py-[9.55px] mr-[31.01px] px-[12px] rounded-[17.72px] leading-[21.04px]'>
+          <Text className='text-[12.18px] leading-[21.04px] text-white w-[85%] font-["gilroy-regular"]'>
             Lorem ipsum dolor sit amet consectetur. Feugiat amet aliquam
             adipiscing ipsum hendrerit neque. Eu enim justo vulputate facilisis
             diam eget eu. Tempus orci nunc vitae aliquam.
